@@ -1,14 +1,14 @@
 # Wide3
 
-**Wide3** is a collaborative organization designed to build, manage and scale complex projects through a decentralized yet coordinated operating model. It combines strategic guidance, distributed execution, and transparent financial flows to deliver value efficiently and sustainably.
+**Wide3** is a collaborative organization designed to build, manage and scale complex projects through a decentralized yet coordinated operating model. It combines strategic guidance, distributed execution and transparent financial flows to deliver value efficiently and sustainably.
 
 ---
 
 ## 🌐 What is Wide3?
 
-Wide3 operates as an organizational and financial framework rather than a traditional company. Projects are executed by independent contributors and groups, coordinated through shared rules, governance principles, and operational models.
+Wide3 operates as an organizational and financial framework rather than a traditional company. Projects are executed by independent contributors and groups, coordinated through shared rules, governance principles and operational models.
 
-At the core of Wide3 is the **BIT Model**, which defines how projects are structured, governed, and financially managed.
+At the core of Wide3 is the **BIT Model**, which defines how projects are structured, governed and financially managed.
 
 ---
 
@@ -31,34 +31,12 @@ The **Guide Group (GG)** is the central coordination unit for each project. Its 
 
 * Strategic guidance and oversight
 * Client relationship management
-* Collection of invoices from project contributors
-* Issuing a single invoice to the client
-* Distributing payments to contributors according to the BIT Model rules
 
 From the client’s perspective, the GG is the only counterpart.
 
 ### Contributors
 
-Contributors are individuals, teams, or entities involved in delivering specific parts of a project. They:
-
-* Operate independently
-* Invoice the Guide Group (not the client)
-* Are paid according to predefined agreements and project rules
-
----
-
-## 💸 Financial Flow (High-Level)
-
-1. Client receives a **single invoice** from the Guide Group
-2. Client pays only the Guide Group
-3. Contributors issue invoices to the Guide Group
-4. The Guide Group pays contributors based on the BIT Model allocation
-
-This structure ensures:
-
-* Simplicity for the client
-* Transparency for contributors
-* Compliance with standard accounting practices
+Contributors are individuals, teams or entities involved in delivering specific parts of a project
 
 ---
 
@@ -66,9 +44,9 @@ This structure ensures:
 
 Wide3 is governed by:
 
-* A shared **Statute** defining principles, roles, and decision-making processes
+* A shared **Statute** defining principles, roles and decision-making processes
 * Project-specific agreements aligned with the BIT Model
-* Clear separation between governance, coordination, and execution
+* Clear separation between governance, coordination and execution
 
 Governance is designed to be:
 
@@ -82,12 +60,12 @@ Governance is designed to be:
 
 This GitHub organization hosts:
 
-* Documentation of the BIT Model
-* Governance and statutory documents
-* Project templates and operational guidelines
-* Shared tools and utilities
-
-Each repository should include its own README explaining scope, ownership, and contribution rules.
+* [infrastructure](https://github.com/widev3/infrastructure). Everything related to the infrastructure, script, configuration and setup.
+* [server](https://github.com/widev3/server). Server side of the wide3 radioastronomy solution.
+* [waterfall](https://github.com/widev3/waterfall). The wide3 software to render, operate, compute, save a view waterfall from .IQ, .WAV, .CF32, .CSV, ... files.
+* [viewer](https://github.com/widev3/viewer). TCP-IP real time viewer of RS spectrum analyzer based on pyvisa, visa and RsInstrument python libraries.
+* [projects](https://github.com/widev3/projects). Manage wide3 projects.
+* [keypad](https://github.com/widev3/keypad). Client side app to easily test the server.
 
 ---
 
@@ -99,24 +77,10 @@ Before contributing:
 
 * Review the governance and BIT Model documentation
 * Ensure alignment with project objectives
-* Clarify roles, responsibilities, and compensation rules
+* Clarify roles, responsibilities and compensation rules
 
 Contribution guidelines may vary by repository and project.
 
 ---
 
-## 📜 License & Usage
-
-Unless otherwise specified, documentation and materials in this organization are shared under terms defined in the relevant repository.
-
-Always refer to project-specific licenses and agreements.
-
----
-
-## 📫 Contact & Coordination
-
-For strategic, governance, or onboarding matters, coordination happens through the relevant Guide Group or designated Wide3 contacts.
-
----
-
-**Wide3 — coordinated intelligence, distributed execution.**
+**Wide3 - coordinated intelligence, distributed execution.**

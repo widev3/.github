@@ -31,12 +31,13 @@ The **Guide Group (GG)** is the central coordination unit for each project. Its 
 
 * Strategic guidance and oversight
 * Client relationship management
+* Project coordination and milestone supervision
 
-From the client’s perspective, the GG is the only counterpart.
+From the client’s perspective, the GG is the single reference point for governance and delivery.
 
 ### Contributors
 
-Contributors are individuals, teams or entities involved in delivering specific parts of a project
+Contributors are individuals, teams or entities involved in delivering specific parts of a project. They are paid according to predefined agreements and project rules.
 
 ---
 
@@ -69,6 +70,30 @@ This GitHub organization hosts:
 
 ---
 
+## ⚙️ Operating Rules (Network-wide)
+
+The following rules were defined and approved during the latest Wide3 network meeting and apply to **all projects within the Wide3 ecosystem**:
+
+* Every project in the network is **structured into milestones**
+* Each milestone is **published to the network and open for enrollment**
+* Enrollment for a milestone remains **open for 1 week** from the publication date
+* A **kick-off meeting** is held at the closure of enrollment to validate and confirm project members
+* At least **one alignment meeting every 4 weeks** is required among **all members of the Wide3 network**
+* At least **one alignment meeting every 2 weeks** is required among **members of the same project**
+* **Registration on GitHub (github.com)** is mandatory for managing tasks, issues and any project-related activity
+* All meetings, calls and working sessions must be **minuted and published** on **network.wide3.com**, including the list of participants
+
+---
+
+## 🛒 Ecosystem & Visibility
+
+Wide3 also promotes shared visibility and quality standards across the network:
+
+* A **store of personal services** offered by network members and promoted by Wide3
+* **Publication on wide3.com** of a quality attestation for Wide3-delivered products toward clients
+
+---
+
 ## 🤝 Contributing
 
 Wide3 welcomes collaboration within defined rules.
@@ -80,6 +105,20 @@ Before contributing:
 * Clarify roles, responsibilities and compensation rules
 
 Contribution guidelines may vary by repository and project.
+
+---
+
+## 📜 License & Usage
+
+Unless otherwise specified, documentation and materials in this organization are shared under terms defined in the relevant repository.
+
+Always refer to project-specific licenses and agreements.
+
+---
+
+## 📫 Contact & Coordination
+
+For strategic, governance or onboarding matters, coordination happens through the relevant Guide Group or designated Wide3 contacts.
 
 ---
 

@@ -59,14 +59,10 @@ Governance is designed to be:
 
 ## 📁 Repository Structure
 
-This GitHub organization hosts:
-
-* [infrastructure](https://github.com/widev3/infrastructure). Everything related to the infrastructure, script, configuration and setup.
-* [server](https://github.com/widev3/server). Server side of the wide3 radioastronomy solution.
+This GitHub organization hosts public and private repositories. Public repositories are:
+* [.github](https://github.com/widev3/.github). Public organization's profile.
 * [waterfall](https://github.com/widev3/waterfall). The wide3 software to render, operate, compute, save a view waterfall from .IQ, .WAV, .CF32, .CSV, ... files.
 * [viewer](https://github.com/widev3/viewer). TCP-IP real time viewer of RS spectrum analyzer based on pyvisa, visa and RsInstrument python libraries.
-* [projects](https://github.com/widev3/projects). Manage wide3 projects.
-* [keypad](https://github.com/widev3/keypad). Client side app to easily test the server.
 
 ---
 
